@@ -1,3 +1,4 @@
+# This list was a part of one of my old projects. Now public for anyone to use
 def useragent_list():
 	global headers_useragents
 	headers_useragents.append('Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) BlackHawk/1.0.195.0 Chrome/127.0.0.1 Safari/62439616.534')
